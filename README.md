@@ -5,7 +5,7 @@
 A [OpenStack](https://openstack.org/) exporter for prometheus written in Golang using the
 [gophercloud](https://github.com/gophercloud/gophercloud) library.
 
-### Deployment options
+### Deployment options 
 
 The openstack-exporter can be deployed using the following mechanisms:
 
