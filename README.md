@@ -3,7 +3,7 @@
 [![CI](https://github.com/openstack-exporter/openstack-exporter/actions/workflows/ci.yaml/badge.svg)](https://github.com/openstack-exporter/openstack-exporter/actions/workflows/ci.yaml)
 
 A [OpenStack](https://openstack.org/) exporter for prometheus written in Golang using the
-[gophercloud](https://github.com/gophercloud/gophercloud) library.
+[gophercloud](https://github.com/gophercloud/gophercloud) library. 
 
 ### Deployment options 
 
