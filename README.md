@@ -1,4 +1,4 @@
-# OpenStack Exporter for Prometheus
+# OpenStack Exporter for Prometheus 
 
 [![CI](https://github.com/openstack-exporter/openstack-exporter/actions/workflows/ci.yaml/badge.svg)](https://github.com/openstack-exporter/openstack-exporter/actions/workflows/ci.yaml)
 
